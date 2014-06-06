@@ -1,0 +1,11 @@
+c:\users\mjd\documents\visual studio 2010\Projects\TheScrumMaster\ParseDotCover\Tester\bin\Debug\Tester.exe.config
+c:\users\mjd\documents\visual studio 2010\Projects\TheScrumMaster\ParseDotCover\Tester\bin\Debug\Tester.exe
+c:\users\mjd\documents\visual studio 2010\Projects\TheScrumMaster\ParseDotCover\Tester\bin\Debug\Tester.pdb
+c:\users\mjd\documents\visual studio 2010\Projects\TheScrumMaster\ParseDotCover\Tester\bin\Debug\ParseDotCover.dll
+c:\users\mjd\documents\visual studio 2010\Projects\TheScrumMaster\ParseDotCover\Tester\bin\Debug\ParseDotCover.pdb
+c:\users\mjd\documents\visual studio 2010\Projects\TheScrumMaster\ParseDotCover\Tester\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mjd\documents\visual studio 2010\Projects\TheScrumMaster\ParseDotCover\Tester\obj\x86\Debug\Tester.exe
+c:\users\mjd\documents\visual studio 2010\Projects\TheScrumMaster\ParseDotCover\Tester\obj\x86\Debug\Tester.pdb
+C:\Data Files\Development\MldComputingLimited\Zips\TFSDotCover\ParseDotCover\Tester\bin\Debug\Tester.exe.config
+C:\Data Files\Development\MldComputingLimited\Zips\TFSDotCover\ParseDotCover\Tester\obj\x86\Debug\Tester.exe
+C:\Data Files\Development\MldComputingLimited\Zips\TFSDotCover\ParseDotCover\Tester\obj\x86\Debug\Tester.pdb

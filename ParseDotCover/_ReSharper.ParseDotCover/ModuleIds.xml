@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="1D914812-3A83-46DB-A93E-3C90FAB90D8D" ModuleId="Tester" />
+  <Module PersistentId="4D8BAB39-D88F-43C5-ADD1-AB5964BB5743" ModuleId="ParseDotCover" />
+  <Module PersistentId="System.Workflow.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.Workflow.Runtime" />
+</Modules>

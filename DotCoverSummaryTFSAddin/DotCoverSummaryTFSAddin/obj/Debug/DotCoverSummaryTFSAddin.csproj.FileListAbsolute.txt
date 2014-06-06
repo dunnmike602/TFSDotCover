@@ -1,0 +1,26 @@
+c:\users\mjd\documents\visual studio 2010\Projects\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\obj\Debug\ResolveAssemblyReference.cache
+c:\users\mjd\documents\visual studio 2010\Projects\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\obj\Debug\DotCoverSummaryTFSAddin.csproj.ResolveComReference.cache
+c:\users\mjd\documents\visual studio 2010\Projects\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\bin\Debug\DotCoverSummaryTFSAddin.dll
+c:\users\mjd\documents\visual studio 2010\Projects\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\bin\Debug\DotCoverSummaryTFSAddin.pdb
+c:\users\mjd\documents\visual studio 2010\Projects\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\obj\Debug\DotCoverSummaryTFSAddin.dll
+c:\users\mjd\documents\visual studio 2010\Projects\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\obj\Debug\DotCoverSummaryTFSAddin.pdb
+c:\users\mjd\documents\visual studio 2010\Projects\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\bin\Debug\office.dll
+c:\users\mjd\documents\visual studio 2010\Projects\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\bin\Debug\Microsoft.Office.Interop.Excel.dll
+c:\users\mjd\documents\visual studio 2010\Projects\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\bin\Debug\Microsoft.Office.Interop.MSProject.dll
+c:\users\mjd\documents\visual studio 2010\Projects\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+c:\users\mjd\documents\visual studio 2010\Projects\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\bin\Debug\office.xml
+c:\users\mjd\documents\visual studio 2010\Projects\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\bin\Debug\Microsoft.Office.Interop.Excel.xml
+c:\users\mjd\documents\visual studio 2010\Projects\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\Data Files\Development\MldComputingLimited\Zips\TFSDotCover\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\bin\Debug\DotCoverSummaryTFSAddin.dll
+C:\Data Files\Development\MldComputingLimited\Zips\TFSDotCover\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\bin\Debug\DotCoverSummaryTFSAddin.pdb
+C:\Data Files\Development\MldComputingLimited\Zips\TFSDotCover\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\bin\Debug\office.dll
+C:\Data Files\Development\MldComputingLimited\Zips\TFSDotCover\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Data Files\Development\MldComputingLimited\Zips\TFSDotCover\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\bin\Debug\Microsoft.Office.Interop.MSProject.dll
+C:\Data Files\Development\MldComputingLimited\Zips\TFSDotCover\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Data Files\Development\MldComputingLimited\Zips\TFSDotCover\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\bin\Debug\office.xml
+C:\Data Files\Development\MldComputingLimited\Zips\TFSDotCover\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Data Files\Development\MldComputingLimited\Zips\TFSDotCover\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\Data Files\Development\MldComputingLimited\Zips\TFSDotCover\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\obj\Debug\ResolveAssemblyReference.cache
+C:\Data Files\Development\MldComputingLimited\Zips\TFSDotCover\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\obj\Debug\DotCoverSummaryTFSAddin.csproj.ResolveComReference.cache
+C:\Data Files\Development\MldComputingLimited\Zips\TFSDotCover\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\obj\Debug\DotCoverSummaryTFSAddin.dll
+C:\Data Files\Development\MldComputingLimited\Zips\TFSDotCover\DotCoverSummaryTFSAddin\DotCoverSummaryTFSAddin\obj\Debug\DotCoverSummaryTFSAddin.pdb

@@ -1,0 +1,5 @@
+c:\users\mjd\documents\visual studio 2010\Projects\TheScrumMaster\ParseDotCover\ParseDotCover\bin\Debug\ParseDotCover.dll
+c:\users\mjd\documents\visual studio 2010\Projects\TheScrumMaster\ParseDotCover\ParseDotCover\bin\Debug\ParseDotCover.pdb
+c:\users\mjd\documents\visual studio 2010\Projects\TheScrumMaster\ParseDotCover\ParseDotCover\obj\Debug\ResolveAssemblyReference.cache
+c:\users\mjd\documents\visual studio 2010\Projects\TheScrumMaster\ParseDotCover\ParseDotCover\obj\Debug\ParseDotCover.dll
+c:\users\mjd\documents\visual studio 2010\Projects\TheScrumMaster\ParseDotCover\ParseDotCover\obj\Debug\ParseDotCover.pdb

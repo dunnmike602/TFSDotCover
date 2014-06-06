@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DotCoverSummaryTFSAddin</name>
+    </assembly>
+    <members>
+        <member name="T:DotCoverSummaryTFSAddin.Connect">
+            <summary>The object for implementing an Add-in.</summary>
+            <seealso class='IDTExtensibility2' />
+        </member>
+        <member name="M:DotCoverSummaryTFSAddin.Connect.#ctor">
+            <summary>Implements the constructor for the Add-in object. Place your initialization code within this method.</summary>
+        </member>
+        <member name="M:DotCoverSummaryTFSAddin.Connect.OnConnection(System.Object,Extensibility.ext_ConnectMode,System.Object,System.Array@)">
+            <summary>Implements the OnConnection method of the IDTExtensibility2 interface. Receives notification that the Add-in is being loaded.</summary>
+            <param term='application'>Root object of the host application.</param>
+            <param term='connectMode'>Describes how the Add-in is being loaded.</param>
+            <param term='addInInst'>Object representing this Add-in.</param>
+            <seealso class='IDTExtensibility2' />
+        </member>
+        <member name="M:DotCoverSummaryTFSAddin.Connect.OnDisconnection(Extensibility.ext_DisconnectMode,System.Array@)">
+            <summary>Implements the OnDisconnection method of the IDTExtensibility2 interface. Receives notification that the Add-in is being unloaded.</summary>
+            <param term='disconnectMode'>Describes how the Add-in is being unloaded.</param>
+            <param term='custom'>Array of parameters that are host application specific.</param>
+            <seealso class='IDTExtensibility2' />
+        </member>
+        <member name="M:DotCoverSummaryTFSAddin.Connect.OnAddInsUpdate(System.Array@)">
+            <summary>Implements the OnAddInsUpdate method of the IDTExtensibility2 interface. Receives notification when the collection of Add-ins has changed.</summary>
+            <param term='custom'>Array of parameters that are host application specific.</param>
+            <seealso class='IDTExtensibility2' />		
+        </member>
+        <member name="M:DotCoverSummaryTFSAddin.Connect.OnStartupComplete(System.Array@)">
+            <summary>Implements the OnStartupComplete method of the IDTExtensibility2 interface. Receives notification that the host application has completed loading.</summary>
+            <param term='custom'>Array of parameters that are host application specific.</param>
+            <seealso class='IDTExtensibility2' />
+        </member>
+        <member name="M:DotCoverSummaryTFSAddin.Connect.OnBeginShutdown(System.Array@)">
+            <summary>Implements the OnBeginShutdown method of the IDTExtensibility2 interface. Receives notification that the host application is being unloaded.</summary>
+            <param term='custom'>Array of parameters that are host application specific.</param>
+            <seealso class='IDTExtensibility2' />
+        </member>
+        <member name="M:DotCoverSummaryTFSAddin.MySectionFactory.LoadData(Microsoft.TeamFoundation.Build.Client.IBuildDetail)">
+            <summary>
+            This method should make all necessary server calls to aquire the data
+            needed to display the sections and nodes for this factory.
+            This method is called on a background thread (no UI work can be done).
+            </summary>
+            <param name="build">a reference to the IBuildDetail being displayed</param>
+        </member>
+        <member name="M:DotCoverSummaryTFSAddin.MySectionFactory.CreateSections(Microsoft.TeamFoundation.Build.Controls.IBuildDetailView)">
+            <summary>
+            This method should return all IBuildDetailSections for this factory.
+            </summary>
+            <param name="view">a reference to IBuildDetailsView</param>
+            <returns>array of IBuildDetailSections</returns>
+        </member>
+        <member name="M:DotCoverSummaryTFSAddin.MySectionFactory.CreateNodes(Microsoft.TeamFoundation.Build.Controls.IBuildDetailView)">
+            <summary>
+            This method should return all IBuildDetailNodes for this factory.
+            </summary>
+            <param name="view">a reference to IBuildDetailsView</param>
+            <returns>array of IBuildDetailNodes</returns>
+        </member>
+        <member name="P:DotCoverSummaryTFSAddin.MySectionFactory.Name">
+            <summary>
+            Returns the name of the factory (this name should never be localized).
+            </summary>
+        </member>
+        <member name="P:DotCoverSummaryTFSAddin.MySection.Header">
+            <summary>
+            Returns the header for this section. Usually this is just a localized string.
+            However, it can also return a Windows Presentation Foundation document paragraph 
+            that contains any valid elements for display.
+            </summary>
+        </member>
+        <member name="P:DotCoverSummaryTFSAddin.MySection.Name">
+            <summary>
+            Returns the name of the section (this name should never be localized).
+            </summary>
+        </member>
+        <member name="P:DotCoverSummaryTFSAddin.MySection.Priority">
+            <summary>
+            Returns the relative priority of this section. This value is used to sort 
+            the sections in ascending order before display. Standard sections have 
+            values like 100, 200, 300, etc.
+            </summary>
+        </member>
+    </members>
+</doc>
